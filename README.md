@@ -87,3 +87,5 @@ Reviews:
 ---
 
 Developed by Noor Ullah Bacha
+
+The source code for this project is not publicly available. However, it can be provided upon request for technical evaluation, recruitment, or professional review purposes.
